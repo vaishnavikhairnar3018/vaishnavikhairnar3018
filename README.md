@@ -1,6 +1,8 @@
-<div style="text-align: center;">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXdtdXJrem9vZjM4aThha3lnamlnMjhneWNzdDlwdWlsMDk2cHhlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" alt="code">
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXdtdXJrem9vZjM4aThha3lnamlnMjhneWNzdDlwdWlsMDk2cHhlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" alt="code" style="max-width: 100%;">
 </div>
+
+
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Khairnar</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
