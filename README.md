@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Khairnar</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
-<img align="right" alt="Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZwczRxNHg3eXVpdTZtODYwY3Izbnd4NHFrM3M4am94c3Vub2o3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" alt="Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZwczRxNHg3eXVpdTZtODYwY3Izbnd4NHFrM3M4am94c3Vub2o3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
 
 - 🔭 I’m currently working on **GSSOC,WOB,NASA Space Apps,Hactoberfest**
 
