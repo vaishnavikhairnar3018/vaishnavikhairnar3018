@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **vaishnavikhairnar799@gmail.com**
 
+- 🥅 2024 Goals: Contribute More to Open Source Projects.
+
 - ⚡ Fun fact **I'm Still Learning.**
 
 <h3 align="left">Connect with me:</h3>
